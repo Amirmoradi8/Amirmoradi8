@@ -1,5 +1,6 @@
 <div align='center'>
   <img src='./image.png' alt='image' width='250px' />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="50%" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 # 💫 About Me:
 I am a novice programmer...<br>👨🏻‍💻.I am currently learning Django and network security<br>I am very interested in Django programming language<br>⚡️.I hope I had the necessary energy to learn other programming languages
