@@ -1,10 +1,10 @@
 <div align='center'>
   <img src='./image.png' alt='image' width='250px' />
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="50%" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 # 💫 About Me:
-I am a novice programmer...<br>👨🏻‍💻.I am currently learning Django and network security<br>I am very interested in Django programming language<br>⚡️.I hope I had the necessary energy to learn other programming languages
+I am a novice programmer...<br>👨🏻‍💻.I am currently learning Django and network security<br>I am very interested in Django programming language<br>⚡️.I hope I had the necessary energy to learn other programming languages\
 
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width='450px'  data-target="animated-image.originalImage">
 
 ## 🌐 Socials:
 <a href="https://instagram.com/am_moradi8" rel="nofollow"><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
