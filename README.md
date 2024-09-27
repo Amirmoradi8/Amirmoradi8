@@ -1,4 +1,6 @@
-<img src='./image.png' alt='image' width='250px' />
+<div align='center'>
+  <img src='./image.png' alt='image' width='250px' />
+</div>
 # 💫 About Me:
 I am a novice programmer...<br>I am currently learning Django and network security<br>I am very interested in Django programming language<br>I hope I had the necessary energy to learn other programming languages
 
