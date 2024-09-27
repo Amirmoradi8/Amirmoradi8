@@ -3,4 +3,4 @@
   <h1>I am Amir Moradi</h1>
 </div>
 <h3>The languages ​​I know:</h3>
-<img src='./https://skillicons.dev/icons?i=py,django,github,ps' alt='./Languages' />
+<img src='https://skillicons.dev/icons?i=py,django,github,ps' alt='./Languages' />
